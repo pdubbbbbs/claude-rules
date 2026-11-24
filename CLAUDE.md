@@ -77,7 +77,7 @@ When Philip says something exists, has been agreed, or has already been done:
 - **Domain:** `philipwright.me`
 - **Email:** `me@philipwright.me` (Fastmail; DNS confirmed correct)
 - **GitHub:** `pdubbbbbs` (43 repos; mix of public and private)
-- **Private repos:** Gitea instance at `192.168.12.231:3000`
+- **Private repos:** self-hosted Gitea on the homelab (address kept out of this public file)
 - **Primary device:** MacBook Neo — **never** suggest Chromebook or Crostini
 - **Default terminal directory:** `/home/me56`
 - **SSH user:** `me310`
@@ -93,10 +93,11 @@ When Philip says something exists, has been agreed, or has already been done:
 
 **Homelab inventory:**
 
-- MicroCloud cluster: `peanutbutter` (192.168.12.150), `pineapple` (192.168.12.109), `jellybean` (192.168.12.107), `nutella` (192.168.12.139), `sriracha` (192.168.12.158)
-- Synology NAS: 192.168.12.168
-- NVR / surveillance: 192.168.12.249
-- Gitea: 192.168.12.231:3000
+- MicroCloud cluster: `peanutbutter`, `pineapple`, `jellybean`, `nutella`, `sriracha`
+- Synology NAS
+- NVR / surveillance
+- Gitea (self-hosted)
+- Addresses for these hosts are kept out of this public file. Ask Philip or check private notes.
 
 ## 9. Active context
 
